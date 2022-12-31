@@ -1,0 +1,4 @@
+discogs_api
+spotipy
+tidalapi
+python3-discogs-client
